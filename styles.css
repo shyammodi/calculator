@@ -1,0 +1,9 @@
+/* styles.css */
+
+.calcOperator, #equals {
+    background-color: cornsilk;
+}
+
+#clear {
+    background-color: indianred;
+}
